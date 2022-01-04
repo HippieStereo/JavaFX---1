@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>eu.jlpc.tuto.javafx</groupId>
-    <artifactId>TUTO-01</artifactId>
+    <artifactId>ScenesDrawing</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>TUTO-01</name>
+    <name>ScenesDrawing</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
